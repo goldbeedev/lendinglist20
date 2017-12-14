@@ -1,0 +1,25 @@
+.nav-style { 
+	font-family: 'Lobster', cursive;
+	font-size: 36 !important;
+	color: white;
+}
+
+.coin-name a{
+	font-family:'Bungee', cursive;;
+	text-decoration: none;
+}
+
+.star-icon {
+	width: 18px;
+	height: 18px;
+}
+
+.half-star{
+	width: 10px;
+	height: 18px;
+}
+
+.coin-table {
+	font-family: 'Abel', cursive;
+	font-size: 26px;
+}
