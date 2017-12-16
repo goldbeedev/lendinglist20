@@ -4,6 +4,10 @@
 	color: white;
 }
 
+.lending-table {
+	margin-top: 100px;
+}
+
 .coin-name a{
 	font-family:'Bungee', cursive;;
 	text-decoration: none;
@@ -22,4 +26,48 @@
 .coin-table {
 	font-family: 'Abel', cursive;
 	font-size: 26px;
+	background-color: lightblue;
+}
+
+.fire-text {
+	font-family: 'Fjalla One', sans-serif;
+	color: #ce2029;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+	background: url("images/fire.png") no-repeat center center;
+}
+
+.hot-text {
+	font-family: 'Fjalla One', sans-serif;
+	color: #ff6600;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+
+.warm-text {
+	font-family: 'Fjalla One', sans-serif;
+	color: #FF9900;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+
+.number-text {
+	font-family: 'Pacifico', sans-serif;
+	color: #6a5acd;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+	font-size: 20px;
+}
+
+.h3-style {
+	font-family: 'Shrikhand', sans-serif;
+}
+
+#updates {
+	margin-top: 100px;
+}
+
+.highlighter {
+	background-color: #ccff00;
+}
+
+.wire {
+	font-family: 'Nunito', sans-serif;
+	font-size: 16px;
 }
