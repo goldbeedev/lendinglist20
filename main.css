@@ -71,3 +71,29 @@
 	font-family: 'Nunito', sans-serif;
 	font-size: 16px;
 }
+
+.update-news {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+}
+
+.phase{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+}
+
+.update-text {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 16px;
+}
+
+.update-date {
+	font-weight: bold;
+	font-color: blue;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+
+.navbar {
+	position: fixed !important;
+	width: 100% !important;
+}
