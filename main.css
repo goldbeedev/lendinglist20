@@ -4,6 +4,10 @@
 	color: white;
 }
 
+.navbar-inverse {
+	background-color: black;
+}
+
 .lending-table {
 	margin-top: 100px;
 }
@@ -57,10 +61,11 @@
 
 .h3-style {
 	font-family: 'Shrikhand', sans-serif;
+	margin-top: 100px;
 }
 
 #updates {
-	margin-top: 100px;
+	margin-top: 160px;
 }
 
 .highlighter {
@@ -96,4 +101,27 @@
 .navbar {
 	position: fixed !important;
 	width: 100% !important;
+}
+
+.page-footer {
+	width: 100%;
+	background-color: black;
+}
+
+.social-button {
+	width: 50px;
+	height: 50px;
+}
+
+ul.social-buttons {
+	top-margin: 20px;
+	text-align: center;
+}
+
+ul.social-buttons li {
+	display: inline-block;
+}
+
+.copyright {
+	text-align: center;
 }
